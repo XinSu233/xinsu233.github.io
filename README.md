@@ -1,3 +1,7 @@
-# xinsu233.github.io
+# Xin Su
 
-This is my README file
+Welcome to my personal website.
+
+I am interested in machine learning, large language models, and related topics.
+
+[About](/about/) | [Projects](/projects/) | [CV](/cv/) | [Contact](/contact/)
